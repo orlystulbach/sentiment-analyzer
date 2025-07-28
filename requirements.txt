@@ -3,3 +3,4 @@ serpapi
 transformers
 torch
 matplotlib
+google-search-results
